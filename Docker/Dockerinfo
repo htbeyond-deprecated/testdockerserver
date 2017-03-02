@@ -1,0 +1,6 @@
+target.file=testdockerserver/target/test-docker-server-0.0.1-SNAPSHOT.war
+container.name=testdockerserver
+container.tag=0.1
+user=htbeyond
+password=HTbeyond4646!
+email=suktheman@htbeyond.com
